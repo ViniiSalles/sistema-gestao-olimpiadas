@@ -49,7 +49,6 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 - Deve ser possível cadastrar uma lista de atletas para a competição.
 - O sistema deve validar se todos os campos obrigatórios foram preenchidos corretamente.
 
----
 
 ## US02: Inscrição de Atletas
 
@@ -63,7 +62,6 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 - O sistema deve garantir que o atleta represente apenas um país por modalidade.
 - Deve haver uma confirmação de inscrição com os detalhes da competição e o país representado.
 
----
 
 ## US03: Alocação de Locais
 
@@ -76,7 +74,6 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 - O sistema deve impedir que dois eventos sejam agendados no mesmo local e horário.
 - Deve exibir uma lista de locais disponíveis e seus horários.
 
----
 
 ## US04: Controle de Resultados
 
@@ -89,7 +86,6 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 - Deve haver campos para registrar o atleta vencedor e os classificados em segundo e terceiro lugares.
 - O sistema deve associar os resultados registrados à competição e aos atletas participantes.
 
----
 
 ## US05: Geração de Relatórios de Medalhas
 
