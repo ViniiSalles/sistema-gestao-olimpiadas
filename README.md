@@ -101,3 +101,15 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 - O relatório deve ser atualizado automaticamente conforme os resultados são registrados.
 - O relatório deve permitir exportação em formato PDF ou CSV.
 
+---
+
+# Diagramas
+
+## Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](imagens/Diagrama_Caso_de_Uso.png)
+
+## Diagrama de Classes
+![Diagrama de Classes](imagens/Diagrama_de_Classes.png)
+
+## Diagrama de Pacotes
+![Diagrama de Pacotes](imagens/Diagrama_de_Pacote.png)
