@@ -3,6 +3,9 @@
 ## Descrição do Sistema
 Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para coordenar os diferentes aspectos do evento. Este sistema deve permitir o gerenciamento de competições, inscrições de atletas, alocação de locais para as provas e controle de resultados.
 
+- Vinícius Salles de Oliveira
+- David Dias
+
 ## Regras de Negócio
 
 ### 1. Cadastro de Competições
